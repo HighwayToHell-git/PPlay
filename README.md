@@ -1,4 +1,4 @@
-# 🎵 PPlay v0.1.0
+# 🎵 PPlay v0.1.0 [LAB][START]
 
 Simple audio player written in **Python** using **Pygame** and **Tkinter**.
 
@@ -141,3 +141,4 @@ Current version:
 
 Have fun listening to your music.
 [PREFIX SYSTEM](PREFIX.md)
+[VERSION HISTORY](HISTORY.md)
