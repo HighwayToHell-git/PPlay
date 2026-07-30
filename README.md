@@ -103,7 +103,7 @@ You can use, modify and experiment with the project freely.
 **Author:**
 
 ```
-Daniil (Unix17-git)
+Daniil (HighwayToHell-git)
 ```
 
 Creator and main developer of PPlay.
