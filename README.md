@@ -140,5 +140,3 @@ Current version:
 ## 🎧 Enjoy PPlay!
 
 Have fun listening to your music.
-[PREFIX SYSTEM](PREFIX.md)
-[VERSION HISTORY](HISTORY.md)
