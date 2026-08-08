@@ -1,4 +1,4 @@
-# 🎵 PPlay v0.1.0
+# 🎵 PPlay THE PROJECT IS FROZEN 
 
 Simple audio player written in **Python** using **Pygame** and **Tkinter**.
 
