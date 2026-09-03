@@ -1,4 +1,4 @@
-# 🎵 PPlay THE PROJECT IS FROZEN 
+# 🎵 PPlay THE PROJECT IS DEAD
 
 Simple audio player written in **Python** using **Pygame** and **Tkinter**.
 
